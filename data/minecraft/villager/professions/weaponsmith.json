@@ -1,0 +1,23 @@
+{
+  "levels": {
+    "1": {
+      "take": {
+        "type": "constant",
+        "value": 2
+      },
+      "trades": [
+        {
+          "sells": {
+            "item": "barrier",
+            "count": 1
+          },
+          "wants": [
+            {
+              "item": "barrier"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
